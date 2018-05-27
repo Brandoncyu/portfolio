@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Hosting my projects as I begin my web development career.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandoncyu/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandoncyu/portfolio/issues"
+  },
+  "homepage": "https://github.com/Brandoncyu/portfolio#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
